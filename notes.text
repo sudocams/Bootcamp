@@ -2,3 +2,6 @@ npm i express dotenv
 
 // colors package for console
 colors.js
+
+npm i slugify
+npm i node-geocoder
